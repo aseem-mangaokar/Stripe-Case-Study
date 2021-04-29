@@ -1,5 +1,5 @@
 # Stripe, Inc. Case Study
-## Introduction 
+## Overview
 
 Stripe, Inc., founded in Palo Alto in 2010 by brothers Patrick and John Collison, is a payment processing / billing company that provides a software solution that streamlines online payment processing and billing for businesses and marketplaces. Originally named “/dev/payments,” after an extensive private beta, the company was officially launched in September 2011, and its service has gone on to be used by companies small and large. 
 The value of their service has not gone unnoticed – though initially funded to the tune of approximately $30,000 by Y Combinator co-founder Peter Graham, Stripe has gone on to raise in excess of $2.2 billion in funding and was recently valued at $95 billion. Notable backers of the company include Peter Thiel, Elon Musk, Sequoia Capital, Andreesen Horowitz and SV Angel.
