@@ -49,7 +49,7 @@ It would be interesting to see if Stripe could enter the smart contract space, p
 
 *An independent interior designer is contracted by a real estate developer to complete a design project with a budget of $100,000 and a timeline of 3 months.*
 -	The developer has signed off on all expenses and approved the work done, but still refuses to deposit the final payment that was due on completion of the project, citing superfluous details.
--	The designer, being an individual with smaller assumed capital resources than the developer, is forced to continue working on each of the developer’s whims, as the designer may not have the resources to engage in legal proceedings to ensure payment in full. The developer is, to speak candidly, ‘dangling’ the final payment, exploiting the designer’s labor under the guise of dissatisfaction with the work done
+-	The designer, being an individual with smaller assumed capital resources than the developer, is forced to continue working on each of the developer’s whims, as they may not have the resources to engage in legal proceedings to ensure payment in full. The developer is, to speak candidly, ‘dangling’ the final payment, exploiting the designer’s labor under the guise of dissatisfaction with the work done
 -	Would Stripe be able to encode a contract into its payment gateway, by which the payments to the contractor would be automatically triggered, with proof of completion per the details of the contract?
 
 
