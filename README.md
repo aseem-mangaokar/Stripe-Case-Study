@@ -68,3 +68,4 @@ It would be interesting to see if Stripe could enter the smart contract space, p
 - [https://baremetrics.com/blog/stripe-vs-chargebee-features-pricing-reviews-and-more] (comparing features to competitors)
 - [https://www.zeni.ai/blog/best-saas-subscription-billing-solution-chargebee-vs-recurly-vs-stripe-billing] (comparing features to competitors)
 - [https://stripe.com/files/payments/IDC_Business_Value_of_Stripe_Platform_Full%20Study.pdf] (IDC whitepaper on the business value of Stripe)
+- [https://www.productmanagementexercises.com/3962/what-success-metrics-would-measure-payment-gateway-product] (success metrics for payment gateways)
