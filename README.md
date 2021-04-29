@@ -1,11 +1,10 @@
-# Stripe-Case-Study
 # Stripe, Inc. Case Study
-## **Introduction**
+## **Introduction** 
 
 Stripe, Inc., founded in Palo Alto in 2010 by brothers Patrick and John Collison, is a payment processing / billing company that provides a software solution that streamlines online payment processing and billing for businesses and marketplaces. Originally named “/dev/payments,” after an extensive private beta, the company was officially launched in September 2011, and its service has gone on to be used by companies small and large. 
 The value of their service has not gone unnoticed – though initially funded to the tune of approximately $30,000 by Y Combinator co-founder Peter Graham, Stripe has gone on to raise in excess of $2.2 billion in funding and was recently valued at $95 billion. Notable backers of the company include Peter Thiel, Elon Musk, Sequoia Capital, Andreesen Horowitz and SV Angel.
 ---
-## **The Space**
+## **The Space** 
 
 In recent years, major financial events have drastically reshaped the way we do business and conduct transactions. The global financial crisis in 2007 resulted in an uptick in regulations on the banking system. In the US alone, tightening credit lines, raising capital requirements to their highest-ever levels and writing off more than $100 billion marked a dramatic pivot from the laissez-fair attitude towards finance that had prevailed for decades. In Europe, cross-border financial activity was stimulated the adoption of a single currency in 2008 and the decision to treat all forms of payment in Europe as domestic (the Payment Services Directive). 
 
@@ -15,7 +14,7 @@ The technological developments in payments happened alongside a digital revoluti
 
 Globally, numerous companies occupy the payments/billing space. Amazon, Google, Samsung and Apple each have their own payment platform. Not limited to online transactions, the Point-of-Sale space is also highly competed over, with Square, Clover, BluePay and several other companies providing competitive POS solutions popular across North America. As such, while Stripe was arguably the first company of its kind to simplify and streamline the payment/billing process as much as it did, it faces stiff competition within the industry, with newcomers as well as legacy systems such as Visa and Mastercard vying for market share.
 ---
-## **The Service**
+## **The Service** 
 
 Prior to Stripe’s inception, the payment processing space was unapproachably complex; it required the participation of issuing banks, card schemes, electronic point-of-sale systems, merchant banks and, finally, the customer’s bank. As such, Stripe’s product is an answer to the question: "Why is payment processing so difficult?” They sought to control all aspects of the billing process and put together a user-friendly interface to make payment processing as stress-free as possible. 
 Stripe developers use Ruby, Javascript, Go and Swift.
@@ -37,11 +36,11 @@ Stripe reduces as many additional tool requirements as possible while allowing t
 
 Recently, Stripe has partnered with banking institutions Goldman Sachs and Citibank NA to launch banking services, under the name Stripe Treasury. They plan to embed financial services onto Stripe's platform using APIs, offering near-instant access to revenue earned through Stripe. This represents an institutional move to catch business banking up to the speed of online business activity. In 2020, Stripe also acquired Nigerian fintech startup Paystack for a reported sum of $200 million. In combination with their opening of an office in Dubai, this should stimulate use of their API in the Middle East and Africa (MEA) region.
 ---
-## **Metrics**
+## **Metrics** 
 
 The payments sector assesses 2 end-user segments of a payment gateway to measure success; they can largely be boiled down to total revenue and total number of transactions conducted. Stripe can measure end-user acquisition (the number of users accessing the payment portal), activation (completing payment) and retention (storing their information within the Stripe portal for future use). As far as providing their customers with performance tracking, they provide a comprehensive metrics dashboard (the Stripe Dashboard) that allows customers to track their financial performance and gain valuable insights.
 ---
-## **Pros, Cons, Potential Future Developments**
+## **Pros, Cons, Potential Future Developments** 
 
 Customer experience with Stripe has been largely incredibly positive. According to the IDC, Stripe “transforms businesses’ payments infrastructures from being systems that narrowly process transactions to being wider networks that support complex business models.” The paper posits that deploying stripe had an overwhelmingly positive impact on the performance of most of the businesses surveyed. The survey finds 6.7% higher revenue, 59% higher developer productivity, 24% lower cost of building and operating an online payments platform and 81% fewer unplanned outages.
 However, an online search comparing various payment gateways showed that when compared to competitors such as Chargebee and Recurly, it seems Stripe’s customers are unsatisfied with its inability to accept gift cards, as well as with the high transaction fees that accompany sales of expensive items. A common complaint seems to be that although Stripe purports support for recurring subscription billing, it as more optimized for one-time purchases, with one reviewer going so far as to describe Stripe as “not a robust billing solution,” suggesting that multiple products and more complex subscription models would require a complete billing solution that is even more customizable than Stripe is at present. Additionally, Stripe does not offer connectivity to alternative online payment gateways; perhaps due to its nature as a payment gateway itself, but competitors Chargebee and Recurly offer connections to at least 16 different gateways, including payments giant Paypal.
@@ -52,7 +51,7 @@ An independent interior designer is contracted by a real estate developer to com
 -	Would Stripe be able to encode a contract into its payment gateway, by which the payments to the contractor would be automatically triggered, with proof of completion per the details of the contract?
 
 
-### Resources
+### Resources 
 
 - [https://en.wikipedia.org/wiki/Stripe_(company)] (publicly available company bio)
 - [https://www.startupgrind.com/blog/the-collison-brothers-and-story-behind-the-founding-of-stripe/] (explains the intent behind starting the company)
